@@ -32,7 +32,7 @@ Structured Response
 | Backend | FastAPI (Python) |
 | Frontend | Next.js 14 + React |
 
-## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data So## Data it clone https://github.com/vpattangi/tax-research-agent.git
+
 cd tax-research-agent
 python3 -m venv venv
 source venv/bin/activate
