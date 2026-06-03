@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "id": "DT-01",
+      "complexity": "Foundational",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 58923,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-02",
+      "complexity": "Foundational",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 1632,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-03",
+      "complexity": "Intermediate",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 5471,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-04",
+      "complexity": "Intermediate",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 2505,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-05",
+      "complexity": "Advanced",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 3444,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-06",
+      "complexity": "Advanced",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 1808,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-07",
+      "complexity": "Advanced",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 2680,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-08",
+      "complexity": "Advanced",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 2306,
+      "latency_ms_retrieval": 0
+    },
+    {
+      "id": "DT-09",
+      "complexity": "Advanced",
+      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "citations_returned": 0,
+      "verification_status": "NO_CITATIONS",
+      "overall_confidence": "LOW",
+      "unverified_count": 0,
+      "latency_ms_total": 2178,
+      "latency_ms_retrieval": 0
+    }
+  ],
+  "dt10": [
+    {
+      "turn": 1,
+      "query": "Explain the reassessment framework under Section 147.",
+      "latency_ms": 1234,
+      "confidence": "LOW"
+    },
+    {
+      "turn": 2,
+      "query": "What is the time limit for issuing notice under Section 148 after the Finance Act 2021 amendments? Is there a distinction between escaped income above and below Rs. 50 lakhs?",
+      "latency_ms": 2316,
+      "confidence": "LOW"
+    },
+    {
+      "turn": 3,
+      "query": "Can the assessee challenge the validity of the reassessment notice at the threshold without waiting for the assessment to be completed? Cite the Supreme Court ruling in this regard.",
+      "latency_ms": 2398,
+      "confidence": "LOW"
+    }
+  ],
+  "p50": 2398,
+  "p95": 58923
+}
