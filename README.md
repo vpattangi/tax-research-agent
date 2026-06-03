@@ -39,10 +39,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
 # Fill in QDRANT_URL, QDRANT_API_KEY, GROQ_API_KEY
-```
 
-## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesti## Ingesbed_and_index.py
-```
 
 ## Running
 
