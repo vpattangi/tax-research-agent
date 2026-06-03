@@ -8,95 +8,95 @@
       "verification_status": "NO_CITATIONS",
       "overall_confidence": "LOW",
       "unverified_count": 0,
-      "latency_ms_total": 58923,
+      "latency_ms_total": 33115,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-02",
       "complexity": "Foundational",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
+      "answer_preview": "The conditions for claiming a deduction under the given section involve an individual or a Hindu undivided family paying or depositing an amount in the tax year, with the aggregate not exceeding Rs. 150,000. The deduction is subject to conditions specified in Schedule XV. Qualifying instruments are ",
       "citations_returned": 0,
       "verification_status": "NO_CITATIONS",
       "overall_confidence": "LOW",
       "unverified_count": 0,
-      "latency_ms_total": 1632,
+      "latency_ms_total": 18449,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-03",
       "complexity": "Intermediate",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "According to the Income Tax Act, 2025, a long-term capital loss can be set off against the income computed in respect of any other long-term capital asset for that year. If the loss cannot be wholly set off, the amount of loss not so set off shall be carried forward to the following tax year and so ",
+      "citations_returned": 2,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 5471,
+      "latency_ms_total": 48139,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-04",
       "complexity": "Intermediate",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "To claim exemption on the purchase of a new residential house after selling a plot of land, the taxpayer should consider the provisions of Section 54 and Section 54F of the Income Tax Act. However, the provided chunks do not explicitly mention Section 54 or Section 54F, but rather Section 86, which ",
+      "citations_returned": 6,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 2505,
+      "latency_ms_total": 33620,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-05",
       "complexity": "Advanced",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "The deemed dividend provisions under Section 2(22)(e) may apply to the loan given by LCo. to BCo., as the Section 2(22)(e) deals with the distribution of accumulated profits to shareholders, and LCo. has sufficient accumulated reserves. However, without the exact text of Section 2(22)(e), it is diff",
+      "citations_returned": 1,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 3444,
+      "latency_ms_total": 30329,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-06",
       "complexity": "Advanced",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
+      "answer_preview": "The provided chunks do not contain information to answer the question about the standard for determining fair market value of management services under Section 40A(2) and its interaction with Transfer Pricing provisions under Chapter X.\n\n## Legal Reasoning\n- Statutory Basis: None retrieved\n- Regulat",
+      "citations_returned": 1,
+      "verification_status": "PARTIAL",
       "overall_confidence": "LOW",
-      "unverified_count": 0,
-      "latency_ms_total": 1808,
+      "unverified_count": 1,
+      "latency_ms_total": 14897,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-07",
       "complexity": "Advanced",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "The total income taxable under Section 56(2)(x) includes the cash gift of Rs. 8 lakhs from a non-relative friend, as well as the difference between the stamp duty value and the consideration paid for the plot of land, which is Rs. 12 lakhs - Rs. 5 lakhs = Rs. 7 lakhs. Therefore, the total income tax",
+      "citations_returned": 1,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 2680,
+      "latency_ms_total": 20016,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-08",
       "complexity": "Advanced",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "The concept of a substantial question of law under Section 365 of the Income Tax Act, 2025, involves a significant legal issue that needs to be addressed by the High Court. An appeal to the High Court can only be made on a substantial question of law, not on a question of fact. The differences betwe",
+      "citations_returned": 2,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 2306,
+      "latency_ms_total": 37532,
       "latency_ms_retrieval": 0
     },
     {
       "id": "DT-09",
       "complexity": "Advanced",
-      "answer_preview": "## Final Answer\nThe pipeline could not produce a response. Ensure the vector index contains data and retry.\n\n## Confidence & Disclaimer\nConfidence: LOW\nThis response is generated for research and informational purposes only and does not constitute legal or tax advice. Consult a qualified tax profess",
-      "citations_returned": 0,
-      "verification_status": "NO_CITATIONS",
-      "overall_confidence": "LOW",
+      "answer_preview": "The burden of proof under Section 68 of the Income Tax Act lies with the assessee to explain the nature and source of unexplained cash credits in their books. However, the provided chunks do not contain information specific to Section 68, instead referencing Section 101, which discusses the inclusio",
+      "citations_returned": 2,
+      "verification_status": "VERIFIED",
+      "overall_confidence": "HIGH",
       "unverified_count": 0,
-      "latency_ms_total": 2178,
+      "latency_ms_total": 9834,
       "latency_ms_retrieval": 0
     }
   ],
@@ -104,22 +104,22 @@
     {
       "turn": 1,
       "query": "Explain the reassessment framework under Section 147.",
-      "latency_ms": 1234,
+      "latency_ms": 14594,
       "confidence": "LOW"
     },
     {
       "turn": 2,
       "query": "What is the time limit for issuing notice under Section 148 after the Finance Act 2021 amendments? Is there a distinction between escaped income above and below Rs. 50 lakhs?",
-      "latency_ms": 2316,
-      "confidence": "LOW"
+      "latency_ms": 28795,
+      "confidence": "HIGH"
     },
     {
       "turn": 3,
       "query": "Can the assessee challenge the validity of the reassessment notice at the threshold without waiting for the assessment to be completed? Cite the Supreme Court ruling in this regard.",
-      "latency_ms": 2398,
-      "confidence": "LOW"
+      "latency_ms": 27609,
+      "confidence": "HIGH"
     }
   ],
-  "p50": 2398,
-  "p95": 58923
+  "p50": 28795,
+  "p95": 48139
 }
